@@ -81,5 +81,32 @@
       "position": "LIOD - Force Sales Manager",
       "ranking": 7
     }
+  ],
+  "rewards": [
+    {
+      "title": "Big Data Analytics – the future is here lorem ipsum",
+      "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
+      "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
+      "isWinner": true,
+      "winnerName": "Joao Vencedor"
+    },
+    {
+      "title": "Big Data Analytics – the future is here lorem ipsum",
+      "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
+      "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
+      "isWinner": false
+    },
+    {
+      "title": "Big Data Analytics – the future is here lorem ipsum",
+      "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
+      "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
+      "isWinner": false
+    },
+    {
+      "title": "Big Data Analytics – the future is here lorem ipsum",
+      "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
+      "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
+      "isWinner": false
+    }
   ]
 }
