@@ -38,5 +38,48 @@
         "body": "harum non quasi et ratione tempore iure ex voluptates in ratione harum architecto fugit inventore cupiditate voluptates magni quo et"
       }
     ]
-  }
+  },
+
+  "users": [
+    {
+      "name": "Beatriz Silveira",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 1
+    },
+    {
+      "name": "Leanne Graham",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 2
+    },
+    {
+      "name": "Ervin Howell",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 3
+    },
+    {
+      "name": "Clementine Bauch",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 4
+    },
+    {
+      "name": "Patricia Lebsack",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 5
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 5
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 6
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 7
+    }
+  ]
 }
