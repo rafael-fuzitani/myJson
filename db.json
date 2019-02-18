@@ -82,9 +82,7 @@
       "ranking": 7
     }
   ],
-  "notification": [
-  
-  ],
+  "notification": null,
   "rewards": [
     {
       "key": "one",
