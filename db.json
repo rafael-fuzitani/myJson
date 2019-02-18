@@ -82,6 +82,56 @@
       "ranking": 7
     }
   ],
+  "notification": [
+    {
+      "name": "Beatriz Silveira",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 1,
+      "new": true
+    },
+    {
+      "name": "Leanne Graham",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 2,
+      "new": true
+    },
+    {
+      "name": "Ervin Howell",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 3,
+      "new": false
+    },
+    {
+      "name": "Clementine Bauch",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 4,
+      "new": false
+    },
+    {
+      "name": "Patricia Lebsack",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 5,
+      "new": false
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 6,
+      "new": false
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 7,
+      "new": false
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 8,
+      "new": false
+    }
+  ],
   "rewards": [
     {
       "key": "one",
@@ -96,21 +146,24 @@
       "title": "Big Data Analytics – the future is here lorem ipsum",
       "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
       "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
-      "isWinner": false
+      "isWinner": false,
+      "winnerName": ""
     },
     {
       "key": "three",
       "title": "Big Data Analytics – the future is here lorem ipsum",
       "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
       "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
-      "isWinner": false
+      "isWinner": false,
+      "winnerName": ""
     },
     {
       "key": "five",
       "title": "Big Data Analytics – the future is here lorem ipsum",
       "imageSource": "https://firebasestorage.googleapis.com/v0/b/authentication-dd311.appspot.com/o/766x430.png?alt=media&token=3defe7df-bb47-43f1-a7e1-354faaecb5b7",
       "mainText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio eum doloribus ipsum repellendus ullam alias fugiat odit esse enim totam fuga modi impedit, earum dolor natus dolorem illo temporibus dolores.",
-      "isWinner": false
+      "isWinner": false,
+      "winnerName": ""
     }
   ]
 }
