@@ -82,7 +82,56 @@
       "ranking": 7
     }
   ],
-  "notification": null,
+  "notification": [
+    {
+      "name": "Beatriz Silveira",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 1,
+      "new": true
+    },
+    {
+      "name": "Leanne Graham",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 2,
+      "new": true
+    },
+    {
+      "name": "Ervin Howell",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 3,
+      "new": false
+    },
+    {
+      "name": "Clementine Bauch",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 4,
+      "new": false
+    },
+    {
+      "name": "Patricia Lebsack",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 5,
+      "new": false
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 6,
+      "new": false
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 7,
+      "new": false
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "position": "LIOD - Force Sales Manager",
+      "ranking": 8,
+      "new": false
+    }
+  ],
   "rewards": [
     {
       "key": "one",
