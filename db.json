@@ -165,32 +165,5 @@
       "isWinner": false,
       "winnerName": ""
     }
-  ],
-  "history": [
-    {
-      "question": "question1",
-      "your-answer": "my answer my answer my answer my answer my answer",
-      "correct-answer": "my answer my answer my answer my answer my answer"
-    },
-    {
-      "question": "question2",
-      "your-answer": "my answer my answer my answer my answer my answer",
-      "correct-answer": "correct answer correct answer correct answer"
-    },
-    {
-      "question": "question3",
-      "your-answer": "my answer my answer my answer my answer my answer",
-      "correct-answer": "correct answer correct answer correct answer"
-    },
-    {
-      "question": "question4",
-      "your-answer": "my answer my answer my answer my answer my answer",
-      "correct-answer": "my answer my answer my answer my answer my answer"
-    },
-    {
-      "question": "question5",
-      "your-answer": "my answer my answer my answer my answer my answer",
-      "correct-answer": "correct answer correct answer correct answer"
-    }
   ]
 }
